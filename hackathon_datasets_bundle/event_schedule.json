@@ -1,0 +1,27 @@
+[
+  {
+    "Event": "Welcome & Kickoff",
+    "Time": "Friday 1:00 PM",
+    "Location": "CSI GML E190"
+  },
+  {
+    "Event": "Azure Workshop",
+    "Time": "Friday 2:30 PM",
+    "Location": "CSI GML E190"
+  },
+  {
+    "Event": "Team Hacking Begins",
+    "Time": "Friday 4:00 PM",
+    "Location": "Open Workspace"
+  },
+  {
+    "Event": "Mentor Check-In",
+    "Time": "Saturday 11:00 AM",
+    "Location": "CSI GML E190"
+  },
+  {
+    "Event": "Judging & Awards",
+    "Time": "Sunday 12:00 PM",
+    "Location": "CSI GML E190"
+  }
+]

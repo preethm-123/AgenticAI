@@ -1,0 +1,25 @@
+Company Name: Brady Corporation
+Research Expertise: Industrial Safety Solutions, Identification Systems, Facility Safety
+Contact Person: Sarah Thompson
+Email: kindrasena8@gmail.com
+----------------------------------------
+Company Name: Kimberly-Clark Corporation
+Research Expertise: Healthcare Products, Sustainability Innovation, Consumer Goods R&D
+Contact Person: James Peterson
+Email: amoghamanju@gmail.com
+----------------------------------------
+Company Name: Microsoft
+Research Expertise: Cloud Computing, Artificial Intelligence, Quantum Computing, Educational Technology, Networking
+Contact Person: Emily Zhang
+Email: kalyana3@gmail.com
+----------------------------------------
+Company Name: Rockwell Automation
+Research Expertise: Industrial Automation, Robotics, IoT Solutions
+Contact Person: David Anderson
+Email: kuruvadi@gmail.com
+----------------------------------------
+Company Name: Milwaukee Tool
+Research Expertise: Power Tools Innovation, Battery Technology, Construction Technology
+Contact Person: Laura Bennett
+Email: indrasenakalyanam@gmail.com
+----------------------------------------

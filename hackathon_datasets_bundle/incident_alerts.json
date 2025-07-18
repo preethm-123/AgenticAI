@@ -1,0 +1,17 @@
+[
+  {
+    "Time": "Saturday 9:30 AM",
+    "Type": "Room Conflict",
+    "Message": "Room GML E190 was double-booked. Teams relocated to E120."
+  },
+  {
+    "Time": "Saturday 3:00 PM",
+    "Type": "Mentor No-show",
+    "Message": "Scheduled mentor did not arrive. Reassigned backup mentor."
+  },
+  {
+    "Time": "Sunday 10:00 AM",
+    "Type": "Tech Issue",
+    "Message": "Wi-Fi briefly down. Restored in 10 minutes."
+  }
+]

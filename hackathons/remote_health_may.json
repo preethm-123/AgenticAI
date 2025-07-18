@@ -1,0 +1,22 @@
+{
+    "event_id": "remote_health_may",
+    "event_name": "remote health",
+    "event_dates": "may 2,2025",
+    "event_location": "csi",
+    "problem_statement": "Problem Title: Remote Healthcare for Rural Areas\n\nDescription: Build a telemedicine solution that integrates IoT-based diagnostic tools and virtual consultation platforms to provide affordable and accessible healthcare services for rural or underserved areas.\n\nRelevant Research Areas: Telemedicine, IoT, Healthcare Accessibility, Cloud Computing",
+    "sponsors": [
+        "indrasenakalyanam@gmail.com",
+        "indrasenakalyanam@gmail.com",
+        "amoghamanju@gmail.com"
+    ],
+    "marketing_materials": {
+        "poster_description": "\n**Event**: Remote Health  \n**Dates**: May 2, 2025  \n**Location**: CSI  \n**Tagline**: \"Revolutionizing Healthcare Anytime, Anywhere!\"\n\n---\n\n",
+        "email_templates": "\n#### **Student Email Template:**\n\nSubject: \ud83d\ude80 Join Us for [Remote Health] - May 2, 2025!\n\nDear [Student's Name],\n\nWe are thrilled to invite you to **Remote Health**, an exceptional event taking place on **May 2, 2025, at CSI**. Explore groundbreaking solutions in digital health, bond with professionals, and actively engage in exciting workshops. Remote Health is perfect for students enthusiastic about melding technology with healthcare innovation.\n\nClear your schedule - you don't want to miss this opportunity!\n\nCheers,  \n[Event Team Name]  \n\n---\n\n#### **Faculty Email Template:**\n\nSubject: Join Us in Inspiring Future Innovators on May 2, 2025 \n\nDear Faculty [Name],\n\nRemote Health isn\u2019t only a stage for cross-passing vast Mutual ideas.\n",
+        "social_media_posts": "",
+        "poster_slogans": "",
+        "audience_segmentation": "",
+        "posting_calendar": ""
+    },
+    "logistics_summary": null,
+    "catering_email_sent": false
+}

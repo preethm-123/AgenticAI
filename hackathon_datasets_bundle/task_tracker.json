@@ -1,0 +1,20 @@
+[
+  {
+    "Task": "Create team rosters",
+    "Owner": "Admin",
+    "Status": "Completed",
+    "Due": "2025-04-24"
+  },
+  {
+    "Task": "Order snacks",
+    "Owner": "Assistant",
+    "Status": "Pending",
+    "Due": "2025-04-25"
+  },
+  {
+    "Task": "Set up judging panel",
+    "Owner": "Coordinator",
+    "Status": "In Progress",
+    "Due": "2025-04-26"
+  }
+]

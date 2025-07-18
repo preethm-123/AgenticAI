@@ -1,0 +1,12 @@
+{
+  "max_team_size": 4,
+  "min_team_size": 2,
+  "allow_cross_skill_teams": true,
+  "no_back_to_back_sessions_for_mentors": true,
+  "judging_criteria": [
+    "Innovation",
+    "Feasibility",
+    "Teamwork",
+    "Ethical Awareness"
+  ]
+}

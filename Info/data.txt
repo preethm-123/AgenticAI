@@ -1,0 +1,22 @@
+
+az functionapp create --resource-group AZ-CSI-Grp1 \
+  --consumption-plan-location eastus \
+  --runtime python --runtime-version 3.10 --functions-version 4 \
+  --name SendMail --storage-account azcsigrp1ab41
+
+
+  az functionapp create \
+  --resource-group AZ-CSI-Grp1 \
+  --consumption-plan-location eastus \
+  --runtime python \
+  --runtime-version 3.10 \
+  --functions-version 4 \
+  --os-type Linux \
+  --name SendMailSponsors \
+  --storage-account azcsigrp1ab41
+
+export PROJECT_CONNECTION_STRING="https://havoc4292589905.openai.azure.com/"
+export SENDER_EMAIL="kindrasena8@gmail.com"
+export APP_PASSWORD=""
+
+func azure functionapp publish SendMailSponsors

@@ -1,0 +1,55 @@
+Details:
+Azure OpenAI Service
+Target: https://havoc4292589905.openai.azure.com/
+API Key: 8WMsHa5GWgl9BMyh5bl6R1NpQrNdDZPdfrZZD9yyT91lcATtlQYlJQQJ99BDACMsfrFXJ3w3AAAAACOGLAes
+
+AIServices
+Target: https://havoc4292589905.cognitiveservices.azure.com/
+API Key: 8WMsHa5GWgl9BMyh5bl6R1NpQrNdDZPdfrZZD9yyT91lcATtlQYlJQQJ99BDACMsfrFXJ3w3AAAAACOGLAes
+
+Agents:
+Agent: Sponsors
+Agent id: asst_5SdBY40KzTPlAUTGLl5gzhnB
+Threads ID: thread_IrS92R6AVw3wb7K9CcJ8G9X5
+Instructions:
+Your task is to identify suitable sponsors for a given problem statement.
+You will receive:
+	•	A Problem Title
+	•	A Description
+	•	A list of Relevant Research Areas
+
+Using the provided sponsor_data.txt file, identify companies whose Research Expertise aligns with any of the problem’s research areas.
+For each match, prepare an email (mock output only) to the Contact Person of the company using their Email.
+
+The response format should be:
+To: [Email]  
+Subject: [Custom subject based on the problem]  
+Body: [Brief body requesting sponsorship and collaboration]
+
+Knowledge: txt file having company details, name, mail ids
+
+Agent: Problem Statement
+Agent Id: asst_idDBn11Mnpj8tbkaXhiDAvQe
+Threads ID: thread_jKgrvC79gIw0oEsAmPcmbOg0
+Instructions:
+You are a creative assistant. When asked, your job is to generate 5–10 interesting problem statements. Focus on real-world problems in fields like technology, healthcare, environment, education, or business. Make sure each problem statement is clear, concise, and challenging. Always confirm if the user wants more suggestions after giving the first set.
+
+
+I am doing this hackathon problem in Azure AI Foundary. The above are resources created so far
+The below are the agents and its task so far
+
+1. if he has the problem statement to present in the folder if so provide folder path and automatically mail the relevant sponsors after reading the document for sponsorship to relevant companies else if you need a problem statement
+2. He needs a problem statement for the hackathon - if he needs specific domains for topic then ask him or else leave and proceed with sponsor.
+3. The company approaches with a problem statement for the hackathon. donot reach out to sponsors in this case
+
+Sponsors Agent
+- For generated problem / CSI - search for sponsors by mailing them (details are in .txt file attached)
+
+The entire process should be automated
+
+
+
+There are many such agents i will be needing further which i will be discussing later
+Registration
+Logistics 
+Feedback etc
